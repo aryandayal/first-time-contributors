@@ -5,8 +5,8 @@ NOTES:
 - Dont' delete anything in this file. 
 - Add your github username below (in a separate line like @codanv) and send contributon. 
 
-### CONTRIBUTORS LIST 
-<hr />
+### CONTRIBUTORS LIST:
+
 @codanv
 
 
