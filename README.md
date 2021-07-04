@@ -11,6 +11,7 @@ Instructions to contributors:
 - Push to your github forked repository(first-time-contributors)
 - From your github `first-time-contributor` repo send a pull request.
 - wait patiently, soon your request will be merged to upstream repo.
+- you can not add duplicate username(multiple times).
 
 
 ### CONTRIBUTORS LIST:
@@ -20,5 +21,7 @@ Instructions to contributors:
 @rnhub
 
 @rnhub
+
+
 
 
